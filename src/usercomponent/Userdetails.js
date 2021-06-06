@@ -8,10 +8,7 @@ function UserDetails()
 {
 	const[details,setDetails]=useState([]);
 
-		useEffect(()=>
-		{
-			setTimeout(()=>{
-
+		useEffect(()=>{
 			axios.get('https://reqres.in/api/users')
 			.then((res)=>{
 				console.log(res.data.data)
@@ -25,8 +22,8 @@ function UserDetails()
 			.finally(()=>{
 				console.log("job done");
 			})
-		},3000)
-	},[]);
+
+		},[]);
 
 	console.log()
 	return(
