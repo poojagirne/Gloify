@@ -14,10 +14,8 @@ function Maincomponent()
 
 return(
   <div>
-    <Navbar/>
-          <Route exact path="/">
+          <Navbar/>
 				  <Userdetails/>
-				</Route>
 				  <Route exact path="/None">
 				  <None/>
 				</Route>
