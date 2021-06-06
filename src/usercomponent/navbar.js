@@ -31,7 +31,7 @@ function Navbar()
                 </Dropdown.Menu>
            </Dropdown>
            </div>}
-                    
+             <Userdetails/>       
         </div>
     )
 }
