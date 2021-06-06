@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Gloify/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/Gloify/static/js/main.d6c986ce.chunk.js",
-    "main.js.map": "/Gloify/static/js/main.d6c986ce.chunk.js.map",
+    "main.js": "/Gloify/static/js/main.bdd25e50.chunk.js",
+    "main.js.map": "/Gloify/static/js/main.bdd25e50.chunk.js.map",
     "runtime-main.js": "/Gloify/static/js/runtime-main.e8d66371.js",
     "runtime-main.js.map": "/Gloify/static/js/runtime-main.e8d66371.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/Gloify/static/css/2.4c97ca4f.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.25a36599.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.d6c986ce.chunk.js"
+    "static/js/main.bdd25e50.chunk.js"
   ]
 }
