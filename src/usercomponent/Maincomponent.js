@@ -15,7 +15,7 @@ function Maincomponent()
 return(
   <div>
           <Navbar/>
-          <Route exact path="/">
+          <Route exact path="/Gloify/">
 				  <Userdetails/>
 				</Route>
 				  <Route exact path="/None">
