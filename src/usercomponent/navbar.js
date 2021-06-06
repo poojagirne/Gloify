@@ -24,7 +24,7 @@ function Navbar()
             <Dropdown>
             <Dropdown.Toggle variant="success" id="dropdown-basic">sorted by</Dropdown.Toggle>
                 <Dropdown.Menu>
-                  <NavLink exac to="/"><Dropdown.Item href="#/action-1"></Dropdown.Item></NavLink> 
+                  <NavLink exac to="/Gloify/"><Dropdown.Item href="#/action-1"></Dropdown.Item></NavLink> 
                      <NavLink exac to="/None"><Dropdown.Item href="#/action-1">None</Dropdown.Item></NavLink> 
                   <NavLink exac to="/Firstname">  <Dropdown.Item href="#/action-2">First name</Dropdown.Item></NavLink> 
                   <NavLink exac to="/Lastname"> <Dropdown.Item href="#/action-3">Last name</Dropdown.Item></NavLink> 
