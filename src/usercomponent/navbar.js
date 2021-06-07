@@ -19,8 +19,8 @@ function Navbar()
 		},3000)
 	},[]);
     return(
-        <div className="text-center mt-5"> {showImg?<img src={loader}/>:
-          <div className="col-md-3 col-sm-3 offset-md-9 mt-3">
+        <div className="text-center "> {showImg?<img src={loader}/>:
+          <div className="col-md-3 col-sm-3 offset-md-9 mt-5">
             <Dropdown>
             <Dropdown.Toggle variant="success" id="dropdown-basic">sorted by</Dropdown.Toggle>
                 <Dropdown.Menu>

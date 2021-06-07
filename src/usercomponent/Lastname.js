@@ -55,7 +55,7 @@ details2.sort(sorted("last_name"));
 			<div className="row">
 			{
 				details2.map(function(val){
-					return<div className="myid" className="col-11 col-md-4 col-sm-4" id="myid">
+					return<div className="myid" className="col-4 col-md-4 col-sm-4 contains" id="myid">
 					<div className="card-group">
 					<a  id="anc" href={val.avatar}  className="card">
 					<div className="card">

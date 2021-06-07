@@ -36,7 +36,7 @@ function UserDetails()
 			<div className="row">
 			{
 				details.map(function(val){
-					return<div className="myid" className="col-11 col-md-4 col-sm-4" id="myid">
+					return<div className="myid" className="col-4 col-xs-4 col-md-4 col-sm-4 mt-0 contains" id="myid">
 				<div className="card-group">
                 <a  id="anc" href={val.avatar}  className="card">
 					<div className="card">

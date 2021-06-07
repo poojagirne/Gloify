@@ -8,3 +8,15 @@ transform: scale(1.1);
   text-decoration: none;
   color : black;
 }
+@media(min-width:200px) and (max-width:500px){
+.contains h5{
+  font-size: 8px;
+  text-indent:-0.5rem;
+}
+}
+/*
+@media(max-width:600px){
+.contains h5{
+  font-size: 15px;
+}
+}*/
